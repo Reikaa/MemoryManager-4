@@ -1,0 +1,8 @@
+JP 25
+MV A 7
+SU C 41
+MI B 64
+MV B 11
+SU B 42
+JP 0
+EX

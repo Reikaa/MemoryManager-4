@@ -1,0 +1,11 @@
+1. Stworz proces.
+2. Pokaz pamiec.
+3. Zmiana procesu running.
+4. Wyswietl proces running.
+5. Wyswietl tablice stronic procesu.
+6. Usun proces.
+7. Wyswietl plik stronicowania.
+8. Wpisanie znaku do pamieci.
+9. Pobranie z pamieci od adresu do spacji.
+A. Wyswietl liste LRU.
+B. GO.
